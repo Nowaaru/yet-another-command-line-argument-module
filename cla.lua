@@ -29,6 +29,7 @@
 
 ]]--
 
+--test
 local cla = {};
 local arguments = {};
 local prettyprint = function(colour, ...)
